@@ -1,0 +1,5 @@
+{
+    "Port": "5000",
+    "SecretKey": "mern-blog", 
+    "mongoURL": "mongodb+srv://admin:admin@mern-blog1.axjelia.mongodb.net/blog?retryWrites=true&w=majority"
+}
